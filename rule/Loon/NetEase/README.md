@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-11 23:04:18。
+最后检查时间：2020-11-16 10:42:04。
 
 ## 规则统计
 
@@ -28,7 +28,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEase/Repeat/China.list)   |   1.52%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEase/Repeat/ChinaTest.list)   |   0.01%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73822   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEase/Repeat/ChinaTest.list)   |   0.01%  |
 |  [NetEaseMusic](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEaseMusic)    | 44   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/NetEase/Repeat/NetEaseMusic.list)   |   20.45%  |
 ## 配置说明
 

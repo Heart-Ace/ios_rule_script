@@ -1,5 +1,5 @@
-# Privacy 与 Advertising 共 2699 条规则重复
-# 最后检查时间：2020-11-11 23:04:19
+# Privacy 与 Advertising 共 2701 条规则重复
+# 最后检查时间：2020-11-16 10:42:06
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 DOMAIN,log.byteoversea.com
@@ -856,6 +856,7 @@ DOMAIN-SUFFIX,event-reporting-dot-webylytics.appspot.com
 DOMAIN-SUFFIX,event.api.drift.com
 DOMAIN-SUFFIX,event.dkb.de
 DOMAIN-SUFFIX,event.getblue.io
+DOMAIN-SUFFIX,event.syndigo.cloud
 DOMAIN-SUFFIX,eventapi.libring.com
 DOMAIN-SUFFIX,eventgateway.soundcloud.com
 DOMAIN-SUFFIX,eventlog.inspsearchapi.com
@@ -956,6 +957,7 @@ DOMAIN-SUFFIX,g4159771035.co
 DOMAIN-SUFFIX,g4357855370.co
 DOMAIN-SUFFIX,g4555939705.co
 DOMAIN-SUFFIX,g4754024040.co
+DOMAIN-SUFFIX,g4952108375.co
 DOMAIN-SUFFIX,g4p.redtram.com
 DOMAIN-SUFFIX,ga-beacon.appspot.com
 DOMAIN-SUFFIX,ga.canoe.ca

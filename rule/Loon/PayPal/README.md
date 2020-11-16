@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-11 23:04:17。
+最后检查时间：2020-11-16 10:42:03。
 
 ## 规则统计
 
@@ -30,8 +30,8 @@ PayPal分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal/Repeat/China.list)   |   0.67%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal/Repeat/ChinaTest.list)   |   0.01%  |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 827   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal/Repeat/Global.list)   |   0.36%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73822   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal/Repeat/ChinaTest.list)   |   0.01%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/PayPal/Repeat/Global.list)   |   0.36%  |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化

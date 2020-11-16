@@ -1,5 +1,5 @@
-# Advertising 与 ChinaTest 共 1145 条规则重复
-# 最后检查时间：2020-11-11 23:04:13
+# Advertising 与 ChinaTest 共 1148 条规则重复
+# 最后检查时间：2020-11-16 10:41:58
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 DOMAIN-SUFFIX,000dn.com
@@ -73,6 +73,7 @@ DOMAIN-SUFFIX,3hgui.com
 DOMAIN-SUFFIX,4006825178.com
 DOMAIN-SUFFIX,426g.com
 DOMAIN-SUFFIX,49wanwan.com
+DOMAIN-SUFFIX,4ggame8.com
 DOMAIN-SUFFIX,4paradigm.com
 DOMAIN-SUFFIX,4wad.com
 DOMAIN-SUFFIX,504pk.com
@@ -334,6 +335,7 @@ DOMAIN-SUFFIX,codesoftchina.com
 DOMAIN-SUFFIX,cojia.net
 DOMAIN-SUFFIX,config.unityads.unity3d.com
 DOMAIN-SUFFIX,coocaatv.com
+DOMAIN-SUFFIX,coolbook.cc
 DOMAIN-SUFFIX,coolguang.com
 DOMAIN-SUFFIX,coreldrawchina.com
 DOMAIN-SUFFIX,cpatrk.net
@@ -473,7 +475,6 @@ DOMAIN-SUFFIX,guannin.com
 DOMAIN-SUFFIX,guitarpro.cc
 DOMAIN-SUFFIX,guohead.com
 DOMAIN-SUFFIX,gutouwang.net
-DOMAIN-SUFFIX,gw069.com
 DOMAIN-SUFFIX,gw630.com
 DOMAIN-SUFFIX,gzcl999.com
 DOMAIN-SUFFIX,gznwn.com
@@ -565,6 +566,7 @@ DOMAIN-SUFFIX,jingteinv.com
 DOMAIN-SUFFIX,jisucn.com
 DOMAIN-SUFFIX,jisuoping.com
 DOMAIN-SUFFIX,jiubuhua.com
+DOMAIN-SUFFIX,jiudiandyw.com
 DOMAIN-SUFFIX,jiuzhilan.com
 DOMAIN-SUFFIX,jixing8.com
 DOMAIN-SUFFIX,jiyan.net
@@ -1004,6 +1006,7 @@ DOMAIN-SUFFIX,xdwan.com
 DOMAIN-SUFFIX,xi9p.com
 DOMAIN-SUFFIX,xiacai.com
 DOMAIN-SUFFIX,xiald.com
+DOMAIN-SUFFIX,xianguangergaozhi.com
 DOMAIN-SUFFIX,xiangwangdesh.com
 DOMAIN-SUFFIX,xianliao.me
 DOMAIN-SUFFIX,xiaohei.com

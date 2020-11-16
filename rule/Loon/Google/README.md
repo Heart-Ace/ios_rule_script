@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-11 23:04:17。
+最后检查时间：2020-11-16 10:42:03。
 
 ## 规则统计
 
@@ -29,13 +29,13 @@ Google分流规则，与本项目其他分流规则重复情况统计。
 
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
-|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 93439   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Advertising.list)   |   0.01%  |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109684   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/AdvertisingTest.list)   |   0.02%  |
+|  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Advertising)    | 93550   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Advertising.list)   |   0.01%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingTest)    | 109802   | [23](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/AdvertisingTest.list)   |   0.02%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/AdvertisingLite)    | 41856   | [10](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/AdvertisingLite.list)   |   0.02%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/BlackList)    | 781   | [39](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/BlackList.list)   |   4.99%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [48](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/ChinaTest.list)   |   0.07%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73822   | [48](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/ChinaTest.list)   |   0.07%  |
 |  [YouTube](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/YouTube)    | 14   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/YouTube.list)   |   21.43%  |
-|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 827   | [56](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Global.list)   |   6.77%  |
+|  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Global)    | 826   | [56](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Global.list)   |   6.78%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/GlobalMedia)    | 268   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/GlobalMedia.list)   |   1.49%  |
 |  [Spark](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Spark)    | 4   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Spark.list)   |   25.00%  |
 |  [Privacy](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Privacy)    | 2731   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/Google/Repeat/Privacy.list)   |   0.11%  |

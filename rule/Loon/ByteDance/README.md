@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-11 23:04:16。
+最后检查时间：2020-11-16 10:42:02。
 
 ## 规则统计
 
@@ -28,7 +28,7 @@
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [China](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/China)    | 593   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ByteDance/Repeat/China.list)   |   0.34%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73807   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ByteDance/Repeat/ChinaTest.list)   |   0.01%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ChinaTest)    | 73822   | [4](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Loon/ByteDance/Repeat/ChinaTest.list)   |   0.01%  |
 ## 配置说明
 
 实时版：爬虫程序定时更新，更新频率高，能尽快同步数据源变化
