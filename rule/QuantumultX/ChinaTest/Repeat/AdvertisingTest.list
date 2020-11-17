@@ -1,5 +1,5 @@
-# ChinaTest 与 AdvertisingTest 共 1180 条规则重复
-# 最后检查时间：2020-11-16 10:42:02
+# ChinaTest 与 AdvertisingTest 共 1178 条规则重复
+# 最后检查时间：2020-11-17 09:57:05
 # Github: https://github.com/blackmatrix7/ios_rule_script
 # 重复规则明细：
 HOST-SUFFIX,000dn.com
@@ -99,7 +99,6 @@ HOST-SUFFIX,5399.com
 HOST-SUFFIX,53kf.com
 HOST-SUFFIX,54kefu.net
 HOST-SUFFIX,55.la
-HOST-SUFFIX,550tg.com
 HOST-SUFFIX,5566ua.com
 HOST-SUFFIX,5egk.com
 HOST-SUFFIX,5etv.com
@@ -241,7 +240,6 @@ HOST-SUFFIX,aiwen.cc
 HOST-SUFFIX,aliapp.org
 HOST-SUFFIX,alimama.com
 HOST-SUFFIX,alipaylog.com
-HOST-SUFFIX,alisinak.com
 HOST-SUFFIX,alldk.com
 HOST-SUFFIX,alllget.com
 HOST-SUFFIX,allyes.com
@@ -791,7 +789,6 @@ HOST-SUFFIX,qbdgame.com
 HOST-SUFFIX,qcjslm.com
 HOST-SUFFIX,qhdfxkj.com
 HOST-SUFFIX,qhupdate.com
-HOST-SUFFIX,qiaopiguniang.com
 HOST-SUFFIX,qichexin.com
 HOST-SUFFIX,qidou.com
 HOST-SUFFIX,qifake.com
@@ -1054,6 +1051,7 @@ HOST-SUFFIX,xiniuz.com
 HOST-SUFFIX,xinray.net
 HOST-SUFFIX,xiongdong.com
 HOST-SUFFIX,xiongyin.com
+HOST-SUFFIX,xiongzhangad.com
 HOST-SUFFIX,xitongku.cc
 HOST-SUFFIX,xiyouence.com
 HOST-SUFFIX,xmindchina.net

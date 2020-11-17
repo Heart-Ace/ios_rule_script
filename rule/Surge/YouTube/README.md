@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-16 10:42:03。
+最后检查时间：2020-11-17 09:57:07。
 
 ## 规则统计
 
@@ -31,10 +31,10 @@ YouTube分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 93550   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/Advertising.list)   |   0.00%  |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 109802   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 109821   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [AdvertisingLite](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingLite)    | 41856   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/AdvertisingLite.list)   |   0.00%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/BlackList.list)   |   0.38%  |
-|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73822   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/ChinaTest.list)   |   0.00%  |
+|  [ChinaTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/ChinaTest)    | 73528   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/ChinaTest.list)   |   0.00%  |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google)    | 123   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/Google.list)   |   2.44%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [9](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/Global.list)   |   1.09%  |
 |  [GlobalMedia](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/GlobalMedia)    | 268   | [14](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/YouTube/Repeat/GlobalMedia.list)   |   5.22%  |

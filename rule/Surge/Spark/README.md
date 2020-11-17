@@ -8,7 +8,7 @@
 
 
 
-最后检查时间：2020-11-16 10:42:05。
+最后检查时间：2020-11-17 09:57:08。
 
 ## 规则统计
 
@@ -28,7 +28,7 @@ Spotify分流规则，与本项目其他分流规则重复情况统计。
 | 名称 | 数量 | 重复 | 重合度 |
 | ---- | ---- | ---- | ------ |
 |  [Advertising](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Advertising)    | 93550   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Advertising.list)   |   0.00%  |
-|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 109802   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
+|  [AdvertisingTest](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/AdvertisingTest)    | 109821   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/AdvertisingTest.list)   |   0.00%  |
 |  [BlackList](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/BlackList)    | 782   | [3](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/BlackList.list)   |   0.38%  |
 |  [Google](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Google)    | 123   | [1](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Google.list)   |   0.81%  |
 |  [Global](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Global)    | 827   | [2](https://github.com/blackmatrix7/ios_rule_script/tree/master/rule/Surge/Spark/Repeat/Global.list)   |   0.24%  |
